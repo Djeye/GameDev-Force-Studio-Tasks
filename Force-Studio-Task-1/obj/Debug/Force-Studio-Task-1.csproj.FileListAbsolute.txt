@@ -1,0 +1,17 @@
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\bin\Debug\Force_Studio_Task_1.exe
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\bin\Debug\Force_Studio_Task_1.pdb
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\obj\Debug\Force-Studio-Task-1.csproj.AssemblyReference.cache
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\obj\Debug\Force-Studio-Task-1.csproj.CoreCompileInputs.cache
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\obj\Debug\Force_Studio_Task_1.exe
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\obj\Debug\Force_Studio_Task_1.pdb
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\bin\Debug\ConsoleTables.dll
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\bin\Debug\ConsoleTables.pdb
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\obj\Debug\Force-Studio-Task-1.csproj.CopyComplete
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\bin\Debug\CommandDotNet.dll
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\bin\Debug\System.Reflection.dll
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dabi\RiderProjects\Force-Studio-Task-1\Force-Studio-Task-1\bin\Debug\System.Threading.Tasks.Extensions.xml
